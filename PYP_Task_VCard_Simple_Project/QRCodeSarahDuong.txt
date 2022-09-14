@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Sarah;Duong;;;
+FN:Sarah Duong
+TEL;CELL:27640934
+EMAIL;PREF;INTERNET:sarah.duong@example.com
+ADR;HOME:;;Sand;Norway
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Harper;Anderson;;;
+FN:Harper Anderson
+TEL;CELL:(874)-763-7768
+EMAIL;PREF;INTERNET:harper.anderson@example.com
+ADR;HOME:;;Gisborne;New Zealand
+END:VCARD

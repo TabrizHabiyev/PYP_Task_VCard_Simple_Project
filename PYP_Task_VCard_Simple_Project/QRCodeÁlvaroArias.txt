@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Álvaro;Arias;;;
+FN:Álvaro Arias
+TEL;CELL:974-829-530
+EMAIL;PREF;INTERNET:alvaro.arias@example.com
+ADR;HOME:;;Santiago de Compostela;Spain
+END:VCARD

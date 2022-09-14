@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Serafín;Casares;;;
+FN:Serafín Casares
+TEL;CELL:(640) 975 3728
+EMAIL;PREF;INTERNET:serafin.casares@example.com
+ADR;HOME:;;Nopaltepec;Mexico
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Estefanía;Tejeda;;;
+FN:Estefanía Tejeda
+TEL;CELL:(648) 026 4105
+EMAIL;PREF;INTERNET:estefania.tejeda@example.com
+ADR;HOME:;;La Concordia (Rosita);Mexico
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Tatiana;Branković;;;
+FN:Tatiana Branković
+TEL;CELL:014-8304-452
+EMAIL;PREF;INTERNET:tatiana.brankovic@example.com
+ADR;HOME:;;Bečej;Serbia
+END:VCARD

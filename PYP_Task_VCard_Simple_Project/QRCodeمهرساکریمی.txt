@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;مهرسا;کریمی;;;
+FN:مهرسا کریمی
+TEL;CELL:021-00302246
+EMAIL;PREF;INTERNET:mhrs.khrymy@example.com
+ADR;HOME:;;بوشهر;Iran
+END:VCARD

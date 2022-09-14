@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Rodrigo;Villanueva;;;
+FN:Rodrigo Villanueva
+TEL;CELL:(688) 418 6561
+EMAIL;PREF;INTERNET:rodrigo.villanueva@example.com
+ADR;HOME:;;Agostitlán;Mexico
+END:VCARD

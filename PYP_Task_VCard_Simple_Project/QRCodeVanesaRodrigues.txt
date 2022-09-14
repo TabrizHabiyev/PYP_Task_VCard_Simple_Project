@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Vanesa;Rodrigues;;;
+FN:Vanesa Rodrigues
+TEL;CELL:(97) 3222-4186
+EMAIL;PREF;INTERNET:vanesa.rodrigues@example.com
+ADR;HOME:;;Varginha;Brazil
+END:VCARD

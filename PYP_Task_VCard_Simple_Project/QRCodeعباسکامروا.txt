@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;عباس;کامروا;;;
+FN:عباس کامروا
+TEL;CELL:090-47403734
+EMAIL;PREF;INTERNET:aabs.khmrw@example.com
+ADR;HOME:;;آمل;Iran
+END:VCARD

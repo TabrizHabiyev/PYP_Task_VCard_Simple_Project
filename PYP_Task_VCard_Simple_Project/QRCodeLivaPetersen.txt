@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Liva;Petersen;;;
+FN:Liva Petersen
+TEL;CELL:32121069
+EMAIL;PREF;INTERNET:liva.petersen@example.com
+ADR;HOME:;;Randers Nv;Denmark
+END:VCARD

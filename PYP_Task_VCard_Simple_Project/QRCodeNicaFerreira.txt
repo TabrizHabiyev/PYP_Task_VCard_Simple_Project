@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Nica;Ferreira;;;
+FN:Nica Ferreira
+TEL;CELL:(58) 6861-3443
+EMAIL;PREF;INTERNET:nica.ferreira@example.com
+ADR;HOME:;;São Lourenço da Mata;Brazil
+END:VCARD

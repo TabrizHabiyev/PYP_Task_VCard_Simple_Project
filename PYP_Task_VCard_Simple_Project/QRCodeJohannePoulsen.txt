@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Johanne;Poulsen;;;
+FN:Johanne Poulsen
+TEL;CELL:14783155
+EMAIL;PREF;INTERNET:johanne.poulsen@example.com
+ADR;HOME:;;Nørrebro;Denmark
+END:VCARD

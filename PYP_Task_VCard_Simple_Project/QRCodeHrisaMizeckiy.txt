@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Hrisa;Mizeckiy;;;
+FN:Hrisa Mizeckiy
+TEL;CELL:(097) P15-3351
+EMAIL;PREF;INTERNET:hrisa.mizeckiy@example.com
+ADR;HOME:;;Kalush;Ukraine
+END:VCARD

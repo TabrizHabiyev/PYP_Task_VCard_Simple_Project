@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Jimmy;Peck;;;
+FN:Jimmy Peck
+TEL;CELL:(798) 314-4470
+EMAIL;PREF;INTERNET:jimmy.peck@example.com
+ADR;HOME:;;Albuquerque;United States
+END:VCARD

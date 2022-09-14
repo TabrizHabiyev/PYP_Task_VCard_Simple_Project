@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Luciano;Aubert;;;
+FN:Luciano Aubert
+TEL;CELL:077 416 09 12
+EMAIL;PREF;INTERNET:luciano.aubert@example.com
+ADR;HOME:;;Péry-La Heutte;Switzerland
+END:VCARD

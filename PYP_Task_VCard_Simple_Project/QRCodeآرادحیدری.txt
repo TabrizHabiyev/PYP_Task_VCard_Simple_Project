@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;آراد;حیدری;;;
+FN:آراد حیدری
+TEL;CELL:058-47933130
+EMAIL;PREF;INTERNET:ard.hydry@example.com
+ADR;HOME:;;کرمانشاه;Iran
+END:VCARD

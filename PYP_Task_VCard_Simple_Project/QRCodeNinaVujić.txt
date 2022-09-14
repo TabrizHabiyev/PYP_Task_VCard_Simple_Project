@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Nina;Vujić;;;
+FN:Nina Vujić
+TEL;CELL:017-8538-464
+EMAIL;PREF;INTERNET:nina.vujic@example.com
+ADR;HOME:;;Preševo;Serbia
+END:VCARD

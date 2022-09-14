@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Noélie;Brunet;;;
+FN:Noélie Brunet
+TEL;CELL:05-94-77-51-71
+EMAIL;PREF;INTERNET:noelie.brunet@example.com
+ADR;HOME:;;Aubervilliers;France
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Afşar;Adan;;;
+FN:Afşar Adan
+TEL;CELL:(701)-798-2577
+EMAIL;PREF;INTERNET:afsar.adan@example.com
+ADR;HOME:;;Ordu;Turkey
+END:VCARD

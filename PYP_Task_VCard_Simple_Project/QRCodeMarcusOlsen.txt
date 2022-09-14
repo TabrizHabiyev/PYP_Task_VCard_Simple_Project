@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Marcus;Olsen;;;
+FN:Marcus Olsen
+TEL;CELL:50824000
+EMAIL;PREF;INTERNET:marcus.olsen@example.com
+ADR;HOME:;;Sønder Stenderup;Denmark
+END:VCARD

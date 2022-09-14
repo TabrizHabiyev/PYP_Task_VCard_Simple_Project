@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Frank;Edwards;;;
+FN:Frank Edwards
+TEL;CELL:(385) 546-5677
+EMAIL;PREF;INTERNET:frank.edwards@example.com
+ADR;HOME:;;Mcallen;United States
+END:VCARD

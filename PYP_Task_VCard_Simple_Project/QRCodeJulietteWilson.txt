@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Juliette;Wilson;;;
+FN:Juliette Wilson
+TEL;CELL:N29 M65-3408
+EMAIL;PREF;INTERNET:juliette.wilson@example.com
+ADR;HOME:;;Enterprise;Canada
+END:VCARD

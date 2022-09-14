@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Clarence;Campbell;;;
+FN:Clarence Campbell
+TEL;CELL:(970) 846-1854
+EMAIL;PREF;INTERNET:clarence.campbell@example.com
+ADR;HOME:;;Henderson;United States
+END:VCARD

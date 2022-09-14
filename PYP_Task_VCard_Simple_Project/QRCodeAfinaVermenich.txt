@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Afina;Vermenich;;;
+FN:Afina Vermenich
+TEL;CELL:(067) W14-6821
+EMAIL;PREF;INTERNET:afina.vermenich@example.com
+ADR;HOME:;;Brovari;Ukraine
+END:VCARD

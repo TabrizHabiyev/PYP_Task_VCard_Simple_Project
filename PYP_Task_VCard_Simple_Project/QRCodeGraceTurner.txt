@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Grace;Turner;;;
+FN:Grace Turner
+TEL;CELL:(661)-046-0390
+EMAIL;PREF;INTERNET:grace.turner@example.com
+ADR;HOME:;;New Plymouth;New Zealand
+END:VCARD

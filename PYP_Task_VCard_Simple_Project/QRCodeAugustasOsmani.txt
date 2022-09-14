@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Augustas;Osmani;;;
+FN:Augustas Osmani
+TEL;CELL:27261436
+EMAIL;PREF;INTERNET:augustas.osmani@example.com
+ADR;HOME:;;Flisa;Norway
+END:VCARD
