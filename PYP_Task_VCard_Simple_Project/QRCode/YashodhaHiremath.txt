@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Yashodha;Hiremath;;;
+FN:Yashodha Hiremath
+TEL;CELL:7800704043
+EMAIL;PREF;INTERNET:yashodha.hiremath@example.com
+ADR;HOME:;;Howrah;India
+END:VCARD

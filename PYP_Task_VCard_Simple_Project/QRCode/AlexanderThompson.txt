@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Alexander;Thompson;;;
+FN:Alexander Thompson
+TEL;CELL:E00 H42-9563
+EMAIL;PREF;INTERNET:alexander.thompson@example.com
+ADR;HOME:;;Cornwall;Canada
+END:VCARD

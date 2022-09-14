@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Katy;Schneiders;;;
-FN:Katy Schneiders
-TEL;CELL:0523-6918848
-EMAIL;PREF;INTERNET:katy.schneiders@example.com
-ADR;HOME:;;Mindelheim;Germany
-END:VCARD

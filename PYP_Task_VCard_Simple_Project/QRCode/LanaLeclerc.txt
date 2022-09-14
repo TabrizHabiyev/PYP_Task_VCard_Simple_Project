@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Lana;Leclerc;;;
+FN:Lana Leclerc
+TEL;CELL:01-16-58-29-43
+EMAIL;PREF;INTERNET:lana.leclerc@example.com
+ADR;HOME:;;Reims;France
+END:VCARD

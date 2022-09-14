@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Pilip;Kuzmovich;;;
-FN:Pilip Kuzmovich
-TEL;CELL:(067) P95-2494
-EMAIL;PREF;INTERNET:pilip.kuzmovich@example.com
-ADR;HOME:;;Voznesenivka;Ukraine
-END:VCARD

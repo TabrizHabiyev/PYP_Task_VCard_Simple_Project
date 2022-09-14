@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Elias;Zapata;;;
+FN:Elias Zapata
+TEL;CELL:(601) 850 5516
+EMAIL;PREF;INTERNET:elias.zapata@example.com
+ADR;HOME:;;Cañitas de Felipe Pescador;Mexico
+END:VCARD

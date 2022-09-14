@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Vita;Grigoriyiv;;;
-FN:Vita Grigoriyiv
-TEL;CELL:(098) V62-7650
-EMAIL;PREF;INTERNET:vita.grigoriyiv@example.com
-ADR;HOME:;;Druzhkivka;Ukraine
-END:VCARD

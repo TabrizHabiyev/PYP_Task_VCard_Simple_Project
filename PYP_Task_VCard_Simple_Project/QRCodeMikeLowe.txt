@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Mike;Lowe;;;
-FN:Mike Lowe
-TEL;CELL:(982) 633-2516
-EMAIL;PREF;INTERNET:mike.lowe@example.com
-ADR;HOME:;;New Haven;United States
-END:VCARD

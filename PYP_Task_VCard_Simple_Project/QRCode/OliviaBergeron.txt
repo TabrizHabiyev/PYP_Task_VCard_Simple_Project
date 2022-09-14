@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Olivia;Bergeron;;;
+FN:Olivia Bergeron
+TEL;CELL:K52 T48-7053
+EMAIL;PREF;INTERNET:olivia.bergeron@example.com
+ADR;HOME:;;Radisson;Canada
+END:VCARD

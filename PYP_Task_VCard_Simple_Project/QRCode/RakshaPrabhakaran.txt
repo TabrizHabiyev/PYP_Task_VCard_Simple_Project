@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Raksha;Prabhakaran;;;
+FN:Raksha Prabhakaran
+TEL;CELL:7428360026
+EMAIL;PREF;INTERNET:raksha.prabhakaran@example.com
+ADR;HOME:;;Thrissur;India
+END:VCARD

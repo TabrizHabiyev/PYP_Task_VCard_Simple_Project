@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Cris;Wetzels;;;
+FN:Cris Wetzels
+TEL;CELL:(0901) 953841
+EMAIL;PREF;INTERNET:cris.wetzels@example.com
+ADR;HOME:;;Wachtum;Netherlands
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Denise;Klinkhammer;;;
+FN:Denise Klinkhammer
+TEL;CELL:0670-3225640
+EMAIL;PREF;INTERNET:denise.klinkhammer@example.com
+ADR;HOME:;;Regis-Breitingen;Germany
+END:VCARD

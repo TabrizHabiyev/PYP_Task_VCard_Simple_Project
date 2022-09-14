@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Eloy;Ocampo;;;
+FN:Eloy Ocampo
+TEL;CELL:(610) 448 3881
+EMAIL;PREF;INTERNET:eloy.ocampo@example.com
+ADR;HOME:;;Lagunillas;Mexico
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Koray;Yazıcı;;;
+FN:Koray Yazıcı
+TEL;CELL:(504)-883-1793
+EMAIL;PREF;INTERNET:koray.yazici@example.com
+ADR;HOME:;;Nevşehir;Turkey
+END:VCARD

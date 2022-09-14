@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Oliver;Couri;;;
+FN:Oliver Couri
+TEL;CELL:07-681-223
+EMAIL;PREF;INTERNET:oliver.couri@example.com
+ADR;HOME:;;Harjavalta;Finland
+END:VCARD

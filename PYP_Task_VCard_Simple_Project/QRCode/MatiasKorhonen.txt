@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Matias;Korhonen;;;
+FN:Matias Korhonen
+TEL;CELL:03-853-944
+EMAIL;PREF;INTERNET:matias.korhonen@example.com
+ADR;HOME:;;Masku;Finland
+END:VCARD

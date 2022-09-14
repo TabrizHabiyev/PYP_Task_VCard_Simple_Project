@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Yasir;Bjørnstad;;;
-FN:Yasir Bjørnstad
-TEL;CELL:73466525
-EMAIL;PREF;INTERNET:yasir.bjornstad@example.com
-ADR;HOME:;;Lyefjell;Norway
-END:VCARD

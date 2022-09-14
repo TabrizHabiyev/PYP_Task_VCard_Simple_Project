@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Alicia;Jäkel;;;
-FN:Alicia Jäkel
-TEL;CELL:0119-2524693
-EMAIL;PREF;INTERNET:alicia.jakel@example.com
-ADR;HOME:;;Seelow;Germany
-END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Kashvi;Salian;;;
+FN:Kashvi Salian
+TEL;CELL:7971971115
+EMAIL;PREF;INTERNET:kashvi.salian@example.com
+ADR;HOME:;;Shivpuri;India
+END:VCARD

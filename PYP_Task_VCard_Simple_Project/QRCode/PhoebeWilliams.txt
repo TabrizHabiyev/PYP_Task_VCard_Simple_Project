@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Phoebe;Williams;;;
+FN:Phoebe Williams
+TEL;CELL:(822)-714-1168
+EMAIL;PREF;INTERNET:phoebe.williams@example.com
+ADR;HOME:;;Hastings;New Zealand
+END:VCARD

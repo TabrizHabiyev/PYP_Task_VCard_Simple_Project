@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Julianne;Lerøy;;;
-FN:Julianne Lerøy
-TEL;CELL:27938560
-EMAIL;PREF;INTERNET:julianne.leroy@example.com
-ADR;HOME:;;Fjellfoten;Norway
-END:VCARD

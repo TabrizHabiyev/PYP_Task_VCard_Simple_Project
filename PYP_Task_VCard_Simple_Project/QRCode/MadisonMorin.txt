@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Madison;Morin;;;
+FN:Madison Morin
+TEL;CELL:O57 U16-9210
+EMAIL;PREF;INTERNET:madison.morin@example.com
+ADR;HOME:;;Stratford;Canada
+END:VCARD

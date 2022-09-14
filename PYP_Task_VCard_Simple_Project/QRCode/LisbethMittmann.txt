@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Lisbeth;Mittmann;;;
+FN:Lisbeth Mittmann
+TEL;CELL:0983-0460861
+EMAIL;PREF;INTERNET:lisbeth.mittmann@example.com
+ADR;HOME:;;Bochum;Germany
+END:VCARD

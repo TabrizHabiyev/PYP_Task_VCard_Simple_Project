@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Giray;Ozansoy;;;
+FN:Giray Ozansoy
+TEL;CELL:(385)-283-4538
+EMAIL;PREF;INTERNET:giray.ozansoy@example.com
+ADR;HOME:;;Diyarbakır;Turkey
+END:VCARD

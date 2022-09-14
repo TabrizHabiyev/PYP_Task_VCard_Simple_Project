@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Lauriete;Cavalcanti;;;
-FN:Lauriete Cavalcanti
-TEL;CELL:(65) 7026-1861
-EMAIL;PREF;INTERNET:lauriete.cavalcanti@example.com
-ADR;HOME:;;Guarulhos;Brazil
-END:VCARD

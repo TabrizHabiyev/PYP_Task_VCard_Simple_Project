@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Suze;Van Nes;;;
-FN:Suze Van Nes
-TEL;CELL:(0171) 953544
-EMAIL;PREF;INTERNET:suze.vannes@example.com
-ADR;HOME:;;Ochten;Netherlands
-END:VCARD

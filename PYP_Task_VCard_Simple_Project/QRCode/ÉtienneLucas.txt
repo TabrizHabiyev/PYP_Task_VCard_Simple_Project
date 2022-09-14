@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Étienne;Lucas;;;
+FN:Étienne Lucas
+TEL;CELL:075 165 54 29
+EMAIL;PREF;INTERNET:etienne.lucas@example.com
+ADR;HOME:;;Brissago;Switzerland
+END:VCARD

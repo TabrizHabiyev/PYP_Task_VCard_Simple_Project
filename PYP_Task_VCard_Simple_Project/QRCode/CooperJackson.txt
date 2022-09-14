@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Cooper;Jackson;;;
+FN:Cooper Jackson
+TEL;CELL:(097)-489-0279
+EMAIL;PREF;INTERNET:cooper.jackson@example.com
+ADR;HOME:;;Napier;New Zealand
+END:VCARD

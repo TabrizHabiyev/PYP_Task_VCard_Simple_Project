@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Svitovida;Kindrachuk;;;
+FN:Svitovida Kindrachuk
+TEL;CELL:(067) K60-0402
+EMAIL;PREF;INTERNET:svitovida.kindrachuk@example.com
+ADR;HOME:;;Kamin-Kashirskiy;Ukraine
+END:VCARD

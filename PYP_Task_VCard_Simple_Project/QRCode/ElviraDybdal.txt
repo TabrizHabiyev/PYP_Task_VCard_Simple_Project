@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Elvira;Dybdal;;;
+FN:Elvira Dybdal
+TEL;CELL:30130253
+EMAIL;PREF;INTERNET:elvira.dybdal@example.com
+ADR;HOME:;;Ormåsen;Norway
+END:VCARD

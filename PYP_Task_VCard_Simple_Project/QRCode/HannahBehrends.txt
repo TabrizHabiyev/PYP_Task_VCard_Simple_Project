@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Hannah;Behrends;;;
+FN:Hannah Behrends
+TEL;CELL:0463-5853374
+EMAIL;PREF;INTERNET:hannah.behrends@example.com
+ADR;HOME:;;Burg;Germany
+END:VCARD

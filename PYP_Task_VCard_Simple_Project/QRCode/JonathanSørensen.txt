@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Jonathan;Sørensen;;;
+FN:Jonathan Sørensen
+TEL;CELL:12873227
+EMAIL;PREF;INTERNET:jonathan.sorensen@example.com
+ADR;HOME:;;Saltum;Denmark
+END:VCARD

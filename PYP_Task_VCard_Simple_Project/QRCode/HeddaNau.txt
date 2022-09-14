@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Hedda;Nau;;;
+FN:Hedda Nau
+TEL;CELL:0665-7650381
+EMAIL;PREF;INTERNET:hedda.nau@example.com
+ADR;HOME:;;Kaarst;Germany
+END:VCARD

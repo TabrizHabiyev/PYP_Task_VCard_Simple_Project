@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;سارا;رضاییان;;;
+FN:سارا رضاییان
+TEL;CELL:073-97576134
+EMAIL;PREF;INTERNET:sr.rdyyn@example.com
+ADR;HOME:;;اردبیل;Iran
+END:VCARD

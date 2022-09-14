@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Felicíssimo;da Rosa;;;
-FN:Felicíssimo da Rosa
-TEL;CELL:(89) 9994-2356
-EMAIL;PREF;INTERNET:felicissimo.darosa@example.com
-ADR;HOME:;;Botucatu;Brazil
-END:VCARD

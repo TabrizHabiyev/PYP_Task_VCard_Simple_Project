@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Rafael;Gallego;;;
-FN:Rafael Gallego
-TEL;CELL:938-893-504
-EMAIL;PREF;INTERNET:rafael.gallego@example.com
-ADR;HOME:;;Palma de Mallorca;Spain
-END:VCARD

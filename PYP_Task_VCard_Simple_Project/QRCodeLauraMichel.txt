@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Laura;Michel;;;
-FN:Laura Michel
-TEL;CELL:077 414 85 08
-EMAIL;PREF;INTERNET:laura.michel@example.com
-ADR;HOME:;;Kriechenwil;Switzerland
-END:VCARD

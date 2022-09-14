@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Gary;Warren;;;
+FN:Gary Warren
+TEL;CELL:(894) 314-0181
+EMAIL;PREF;INTERNET:gary.warren@example.com
+ADR;HOME:;;Lafayette;United States
+END:VCARD

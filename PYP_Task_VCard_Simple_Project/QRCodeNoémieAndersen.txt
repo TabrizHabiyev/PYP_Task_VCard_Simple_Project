@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Noémie;Andersen;;;
-FN:Noémie Andersen
-TEL;CELL:A38 Y60-9233
-EMAIL;PREF;INTERNET:noemie.andersen@example.com
-ADR;HOME:;;Stratford;Canada
-END:VCARD

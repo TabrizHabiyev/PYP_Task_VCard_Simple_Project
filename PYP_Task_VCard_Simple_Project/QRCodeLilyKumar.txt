@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Lily;Kumar;;;
-FN:Lily Kumar
-TEL;CELL:(808)-369-8908
-EMAIL;PREF;INTERNET:lily.kumar@example.com
-ADR;HOME:;;Dunedin;New Zealand
-END:VCARD

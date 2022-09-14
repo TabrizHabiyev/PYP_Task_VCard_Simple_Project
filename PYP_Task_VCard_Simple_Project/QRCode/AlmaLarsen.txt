@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Alma;Larsen;;;
+FN:Alma Larsen
+TEL;CELL:32574962
+EMAIL;PREF;INTERNET:alma.larsen@example.com
+ADR;HOME:;;Gl. Rye;Denmark
+END:VCARD

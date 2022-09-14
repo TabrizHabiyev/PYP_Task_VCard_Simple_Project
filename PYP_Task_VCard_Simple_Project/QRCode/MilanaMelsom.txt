@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Milana;Melsom;;;
+FN:Milana Melsom
+TEL;CELL:70470969
+EMAIL;PREF;INTERNET:milana.melsom@example.com
+ADR;HOME:;;Stordal;Norway
+END:VCARD

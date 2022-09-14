@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Gayathri;Raval;;;
+FN:Gayathri Raval
+TEL;CELL:9465161476
+EMAIL;PREF;INTERNET:gayathri.raval@example.com
+ADR;HOME:;;Kamarhati;India
+END:VCARD

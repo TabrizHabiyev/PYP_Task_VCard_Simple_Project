@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Emily;Christiansen;;;
+FN:Emily Christiansen
+TEL;CELL:95734635
+EMAIL;PREF;INTERNET:emily.christiansen@example.com
+ADR;HOME:;;Nykøbing Sj.;Denmark
+END:VCARD

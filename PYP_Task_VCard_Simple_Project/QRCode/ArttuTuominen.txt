@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Arttu;Tuominen;;;
+FN:Arttu Tuominen
+TEL;CELL:08-060-562
+EMAIL;PREF;INTERNET:arttu.tuominen@example.com
+ADR;HOME:;;Saltvik;Finland
+END:VCARD

@@ -23,7 +23,7 @@ foreach (var result in responseJson.results)
     vCards.Add(vCard);
 
     // Generate Qr code 
-    string path = @"C:\Users\tabri\OneDrive\Desktop\PYP_Task_VCard_Simple_Project\PYP_Task_VCard_Simple_Project\QRCode" + vCard.Firtname + vCard.Surname + ".txt";
+    string path = @"C:\Users\tabri\OneDrive\Desktop\PYP_Task_VCard_Simple_Project\PYP_Task_VCard_Simple_Project\QRCode\" + vCard.Firtname + vCard.Surname + ".txt";
     using (StreamWriter sw = File.CreateText(path))
     {
         sw.WriteLine("BEGIN:VCARD");

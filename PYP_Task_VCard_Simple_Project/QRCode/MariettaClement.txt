@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Marietta;Clement;;;
+FN:Marietta Clement
+TEL;CELL:078 186 97 42
+EMAIL;PREF;INTERNET:marietta.clement@example.com
+ADR;HOME:;;Schönengrund;Switzerland
+END:VCARD

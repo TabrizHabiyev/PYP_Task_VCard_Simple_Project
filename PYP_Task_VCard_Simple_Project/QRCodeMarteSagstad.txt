@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Marte;Sagstad;;;
-FN:Marte Sagstad
-TEL;CELL:36529458
-EMAIL;PREF;INTERNET:marte.sagstad@example.com
-ADR;HOME:;;Jevnaker;Norway
-END:VCARD

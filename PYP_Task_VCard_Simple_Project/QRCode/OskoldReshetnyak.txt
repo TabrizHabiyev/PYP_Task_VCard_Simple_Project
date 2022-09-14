@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Oskold;Reshetnyak;;;
+FN:Oskold Reshetnyak
+TEL;CELL:(068) F79-9061
+EMAIL;PREF;INTERNET:oskold.reshetnyak@example.com
+ADR;HOME:;;Hotin;Ukraine
+END:VCARD

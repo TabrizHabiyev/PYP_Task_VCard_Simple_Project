@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;درسا;گلشن;;;
+FN:درسا گلشن
+TEL;CELL:090-04586977
+EMAIL;PREF;INTERNET:drs.glshn@example.com
+ADR;HOME:;;سیرجان;Iran
+END:VCARD

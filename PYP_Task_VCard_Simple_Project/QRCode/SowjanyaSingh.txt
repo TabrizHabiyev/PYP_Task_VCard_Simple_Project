@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Sowjanya;Singh;;;
+FN:Sowjanya Singh
+TEL;CELL:9053483686
+EMAIL;PREF;INTERNET:sowjanya.singh@example.com
+ADR;HOME:;;Bhiwandi;India
+END:VCARD

@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Leon;Little;;;
-FN:Leon Little
-TEL;CELL:(788) 353-9652
-EMAIL;PREF;INTERNET:leon.little@example.com
-ADR;HOME:;;Lowell;United States
-END:VCARD

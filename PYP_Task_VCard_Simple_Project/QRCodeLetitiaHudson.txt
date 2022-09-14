@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Letitia;Hudson;;;
-FN:Letitia Hudson
-TEL;CELL:08-9244-4447
-EMAIL;PREF;INTERNET:letitia.hudson@example.com
-ADR;HOME:;;Rockhampton;Australia
-END:VCARD

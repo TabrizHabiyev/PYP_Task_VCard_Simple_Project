@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Božidar;Ivančević;;;
+FN:Božidar Ivančević
+TEL;CELL:026-2730-514
+EMAIL;PREF;INTERNET:bozidar.ivancevic@example.com
+ADR;HOME:;;Majdanpek;Serbia
+END:VCARD

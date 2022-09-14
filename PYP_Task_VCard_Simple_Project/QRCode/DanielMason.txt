@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Daniel;Mason;;;
+FN:Daniel Mason
+TEL;CELL:031-966-9093
+EMAIL;PREF;INTERNET:daniel.mason@example.com
+ADR;HOME:;;Tuam;Ireland
+END:VCARD

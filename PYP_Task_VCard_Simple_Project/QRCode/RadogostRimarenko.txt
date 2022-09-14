@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Radogost;Rimarenko;;;
+FN:Radogost Rimarenko
+TEL;CELL:(067) A30-2644
+EMAIL;PREF;INTERNET:radogost.rimarenko@example.com
+ADR;HOME:;;Vilnogirsk;Ukraine
+END:VCARD

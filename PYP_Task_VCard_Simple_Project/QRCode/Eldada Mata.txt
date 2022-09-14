@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Elda;da Mata;;;
+FN:Elda da Mata
+TEL;CELL:(22) 7968-4305
+EMAIL;PREF;INTERNET:elda.damata@example.com
+ADR;HOME:;;Patos;Brazil
+END:VCARD

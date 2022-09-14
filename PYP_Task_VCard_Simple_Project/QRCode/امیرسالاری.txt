@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;امیر;سالاری;;;
+FN:امیر سالاری
+TEL;CELL:010-48253436
+EMAIL;PREF;INTERNET:myr.slry@example.com
+ADR;HOME:;;گرگان;Iran
+END:VCARD

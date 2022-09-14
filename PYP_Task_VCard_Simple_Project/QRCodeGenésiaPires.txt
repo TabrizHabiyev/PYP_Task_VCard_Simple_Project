@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Genésia;Pires;;;
-FN:Genésia Pires
-TEL;CELL:(23) 5609-4847
-EMAIL;PREF;INTERNET:genesia.pires@example.com
-ADR;HOME:;;Vitória;Brazil
-END:VCARD

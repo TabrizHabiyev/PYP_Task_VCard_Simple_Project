@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;میلاد;مرادی;;;
+FN:میلاد مرادی
+TEL;CELL:080-95064380
+EMAIL;PREF;INTERNET:myld.mrdy@example.com
+ADR;HOME:;;قائم‌شهر;Iran
+END:VCARD

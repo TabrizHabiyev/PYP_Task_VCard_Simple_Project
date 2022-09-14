@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Jonas;Rasmussen;;;
+FN:Jonas Rasmussen
+TEL;CELL:53193347
+EMAIL;PREF;INTERNET:jonas.rasmussen@example.com
+ADR;HOME:;;Lundby;Denmark
+END:VCARD

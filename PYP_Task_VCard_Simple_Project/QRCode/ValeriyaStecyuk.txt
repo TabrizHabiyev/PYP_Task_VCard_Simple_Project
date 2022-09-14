@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Valeriya;Stecyuk;;;
+FN:Valeriya Stecyuk
+TEL;CELL:(067) D97-6508
+EMAIL;PREF;INTERNET:valeriya.stecyuk@example.com
+ADR;HOME:;;Mikolayivka;Ukraine
+END:VCARD

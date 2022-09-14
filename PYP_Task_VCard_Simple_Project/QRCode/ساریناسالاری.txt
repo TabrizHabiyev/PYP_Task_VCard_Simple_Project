@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;سارینا;سالاری;;;
+FN:سارینا سالاری
+TEL;CELL:083-28552774
+EMAIL;PREF;INTERNET:sryn.slry@example.com
+ADR;HOME:;;زنجان;Iran
+END:VCARD

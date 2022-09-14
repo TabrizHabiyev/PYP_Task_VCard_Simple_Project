@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Erica;Haberland;;;
+FN:Erica Haberland
+TEL;CELL:0543-3605201
+EMAIL;PREF;INTERNET:erica.haberland@example.com
+ADR;HOME:;;Plau am See;Germany
+END:VCARD

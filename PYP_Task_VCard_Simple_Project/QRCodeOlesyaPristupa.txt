@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;Olesya;Pristupa;;;
-FN:Olesya Pristupa
-TEL;CELL:(068) B89-5208
-EMAIL;PREF;INTERNET:olesya.pristupa@example.com
-ADR;HOME:;;Pokrov;Ukraine
-END:VCARD

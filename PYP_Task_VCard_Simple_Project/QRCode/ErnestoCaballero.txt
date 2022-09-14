@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Ernesto;Caballero;;;
+FN:Ernesto Caballero
+TEL;CELL:968-521-619
+EMAIL;PREF;INTERNET:ernesto.caballero@example.com
+ADR;HOME:;;Barcelona;Spain
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:2.1
+N:;Beau;Wright;;;
+FN:Beau Wright
+TEL;CELL:(752)-743-5202
+EMAIL;PREF;INTERNET:beau.wright@example.com
+ADR;HOME:;;Greymouth;New Zealand
+END:VCARD

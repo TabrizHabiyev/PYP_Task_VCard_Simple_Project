@@ -1,8 +1,0 @@
-BEGIN:VCARD
-VERSION:2.1
-N:;بنیامین;کوتی;;;
-FN:بنیامین کوتی
-TEL;CELL:041-93147865
-EMAIL;PREF;INTERNET:bnymyn.khwty@example.com
-ADR;HOME:;;ارومیه;Iran
-END:VCARD
